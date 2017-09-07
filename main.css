@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+#messages {
+    height: 300px;
+}
+
+#clear {
+    display: block;
+    margin: 20px auto;
+    margin-bottom:
+}
